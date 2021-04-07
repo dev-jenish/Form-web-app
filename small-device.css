@@ -1,0 +1,76 @@
+@media (max-width: 1250px) {
+
+    
+.right {
+    display: none;
+}
+
+.left {
+    width: 100%;
+}
+
+}
+
+@media (max-width: 645px) {
+
+    .maintext {
+        font-size: 3em;
+    }
+
+    .secondarytext {
+        font-size: 0.907em;
+    }
+
+    .formtitle{
+        font-size: 1.8em;
+    }
+
+    label{
+        font-size: 0.6em;
+    }
+
+    input{
+        font-size: 0.7em;
+    }
+
+    .btncont {
+        width: 85%;
+    }
+
+    .submitbtn {
+        font-size: 0.85em;
+    }
+
+    .footer {
+        font-size: 0.75em;
+    }
+
+    .formcont{
+        margin-top: 20%;
+    }
+
+    .logo {
+        margin-top: 5%;
+    }
+
+    .inputcont {
+        height: 12%;
+    }
+
+    .formbody {
+        margin-top: 3.5%;
+    }
+
+    .bottomline {
+        border-bottom: 1px solid black;
+    }
+    .bottomline:hover {
+        border-bottom: 1px solid #FB8800;
+    }
+
+    .ma {
+        border: 1px solid black;
+        border-radius: 2px;
+    }
+
+}
