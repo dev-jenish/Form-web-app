@@ -19,10 +19,6 @@ document.querySelector(".formcont").addEventListener("submit", submitForm);
 function submitForm(e) {
     e.preventDefault();
     
-    // if(document.querySelector('input[name="gender"]:checked') == false) {
-    //     alert("Please select your gender");
-    // }
-    
     if(document.querySelector('input[name="gender"]:checked') == null) {
         alert("Please select your gender!");
     }
