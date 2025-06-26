@@ -8,6 +8,7 @@ var firebaseConfig = {
     appId: "1:297087416492:web:4c5112cb7b313d243f8709"
   };
   // Initialize Firebase
+  // firebase.initializeApp(firebaseConfig);
   firebase.initializeApp(firebaseConfig);
 
   // Reference formInfo collections
